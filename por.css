@@ -14,7 +14,7 @@ header {
 }
 
 footer {
-    background-color: #3a3a3a;
+    background-color: #355935;
 }
 
 footer a {
@@ -65,20 +65,22 @@ header {
 }
 
 .btn {
-    background-color: #3a3a3a;
-    color: bisque;
+    background-color: #73A769;
+    color: white;
 }
 
 .name {
     font-size: 80px;
-    opacity: 30%;
+    opacity: 45%;
 }
 
 .name {
     text-align: center;
+    color: #93BE89;
 }
 
 .text-center {
     padding: 2px;
     margin: 10px;
+    color: #5D8C55;
 }
